@@ -1,4 +1,5 @@
 # CRUD MongoDB, Node.js, Express.js
+Does crud operation on user information data. Takes in username, email and contact and adds it into the DB.
 
 ## Steps to run the repo:
 #### Branch - main
